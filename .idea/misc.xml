@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25625" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/drawable/bgapp.xml" value="0.176" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/drawable/btn_paly_bg.xml" value="0.11388888888888889" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/drawable/exercise_background.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.25625" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/drawable/kb_play_bg.xml" value="0.28229166666666666" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/drawable/sozluk.xml" value="0.25625" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/drawable/sozluk2.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout-v23/activity_unit1_egzersiz.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_deneme1.xml" value="0.2" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_detay.xml" value="0.16" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_exercise.xml" value="0.25" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_guncel_bilgi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_home_page.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_info.xml" value="0.25" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_kelime_bilmece.xml" value="0.264" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_kelime_bilmece2.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_login_screen.xml" value="0.25" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_main.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_main2.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_play.xml" value="0.2" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_quiz_oyunu.xml" value="0.25" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_quiz_oyunu2.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_quiz_oyunu3.xml" value="0.2" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_sozluk_giris.xml" value="0.25" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_splash_screen.xml" value="0.264" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_unit.xml" value="0.264" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_unit1.xml" value="0.1" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_unit10.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_unit1_egzersiz.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_unit2.xml" value="0.1" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_unit3.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_unit4.xml" value="0.25" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_unit5.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_unit6.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_unit7.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_unit8.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_unit9.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_unite1_egzersiz.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_units.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/activity_word_play.xml" value="0.152" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/layout/card_tasarim.xml" value="0.2" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/menu/arama_menu.xml" value="0.264" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/Users/ezgik/AndroidStudioProjects/PROJE/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

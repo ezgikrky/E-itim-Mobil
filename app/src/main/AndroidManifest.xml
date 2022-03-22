@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.proje">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PROJE">
+        <activity
+            android:name=".WordPlay"
+            android:exported="false" />
+        <activity
+            android:name=".Oyunlar.Sözlük.MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".Oyunlar.Sözlük.DetayActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Oyunlar.Sözlük.SozlukGiris"
+            android:exported="false" />
+        <activity
+            android:name=".Oyunlar.KelimeBilmece.KelimeOyunu"
+            android:exported="false" />
+        <activity
+            android:name=".Oyunlar.KelimeBilmece.BaslangicActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Oyunlar.QuizOyunu3"
+            android:exported="false" />
+        <activity
+            android:name=".Oyunlar.QuizOyunu2"
+            android:exported="false" />
+        <activity
+            android:name=".Oyunlar.QuizOyunu"
+            android:exported="false" />
+        <activity
+            android:name=".GuncelBilgi"
+            android:exported="false" />
+        <activity
+            android:name=".Exercise"
+            android:exported="false" />
+        <activity
+            android:name=".KonuAnlatım.Unit10"
+            android:exported="false" />
+        <activity
+            android:name=".KonuAnlatım.Unit9"
+            android:exported="false" />
+        <activity
+            android:name=".KonuAnlatım.Unit8"
+            android:exported="false" />
+        <activity
+            android:name=".KonuAnlatım.Unit7"
+            android:exported="false" />
+        <activity
+            android:name=".KonuAnlatım.Unit6"
+            android:exported="false" />
+        <activity
+            android:name=".KonuAnlatım.Unit5"
+            android:exported="false" />
+        <activity
+            android:name=".KonuAnlatım.Unit4"
+            android:exported="false" />
+        <activity
+            android:name=".KonuAnlatım.Unit3"
+            android:exported="false" />
+        <activity
+            android:name=".KonuAnlatım.Unit2"
+            android:exported="false" />
+        <activity
+            android:name=".KonuAnlatım.Unit1"
+            android:exported="false" />
+        <activity
+            android:name=".Unit"
+            android:exported="false" />
+        <activity
+            android:name=".Info"
+            android:exported="false" />
+        <activity
+            android:name=".HomePage"
+            android:exported="false" />
+        <activity
+            android:name=".LoginScreen"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
